@@ -1,0 +1,48 @@
+.home-heading{
+    text-align: center;
+    margin: 20px;
+}
+
+.popup-container{
+    border: 2px solid gold;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    background-color: #ffffff;
+}
+
+.home-emptylist-container{
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/**/  
+  .pagination-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  .popup-search-card{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .search-card{
+    display: flex;
+    align-items: center;
+    border: 2px solid grey;
+    border-radius: 5px;
+    width: 220px;
+    height: 40px;
+  }
+
+  .search-input{
+    padding-left: 10px;
+    border: none;
+    outline: none;
+  }
